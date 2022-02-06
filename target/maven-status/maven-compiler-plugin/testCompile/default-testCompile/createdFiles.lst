@@ -1,0 +1,6 @@
+framework\WebElements\MainPage.class
+framework\Config\GridConfig.class
+framework\Config\JavaHTML.class
+framework\Tests\AmazonTest.class
+framework\Config\WebActions.class
+framework\Config\Log.class

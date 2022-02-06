@@ -1,0 +1,41 @@
+[14_36_41] - [OK] : Scroll hacia abajo correcto.
+[14_36_42] - [ERROR]: Fallo al dar click: (1018, 774) is out of bounds of viewport width (1536) and height (746)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '62ZSRF3', ip: '192.168.1.54', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 96.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220113185450, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 17632, moz:profile: C:\Users\sergio.lezana\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a1d7e0e0-b553-4be4-b6f6-2e9238f361b8
+[14_39_24] - [OK] : Scroll hacia abajo correcto, <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (62064267-bd85-4f8a-b7b1-1ddd501de49f)] -> xpath: //*[text()="Acepto"]]</span>]visible
+[14_39_24] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (62064267-bd85-4f8a-b7b1-1ddd501de49f)] -> xpath: //*[text()="Acepto"]]</span>]
+[14_39_51] - [OK] : Scroll hacia abajo correcto, <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (306f980f-536a-461c-8507-a773cb07ccb4)] -> xpath: //*[text()="Acepto"]]</span>]visible
+[14_39_51] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (306f980f-536a-461c-8507-a773cb07ccb4)] -> xpath: //*[text()="Acepto"]]</span>]
+[18_54_09] - [ERROR] : Error al realizar un scroll hacia abajo en busca de <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (72a02d01-7f50-43d5-aed9-ce25503b2d6d)] -> xpath: //*[text()="Acepto"]]</span>]
+[18_54_09] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (72a02d01-7f50-43d5-aed9-ce25503b2d6d)] -> xpath: //*[text()="Acepto"]]</span>]
+[19_54_49] - [OK] : Scroll hacia abajo correcto, <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (8370d208-6f14-4191-addf-f7244dda0b1e)] -> xpath: //*[text()="Acepto"]]</span>]visible
+[19_54_49] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (8370d208-6f14-4191-addf-f7244dda0b1e)] -> xpath: //*[text()="Acepto"]]</span>]
+[20_00_12] - [OK] : Scroll hacia abajo correcto, <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (de77fd3c-4a36-4a3d-9271-aa740c42ff8e)] -> xpath: //*[text()="Acepto"]]</span>]visible
+[20_00_12] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (de77fd3c-4a36-4a3d-9271-aa740c42ff8e)] -> xpath: //*[text()="Acepto"]]</span>]
+[20_00_13] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (de77fd3c-4a36-4a3d-9271-aa740c42ff8e)] -> xpath: /html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-button-renderer/a]</span>]
+[20_00_49] - [OK] : Scroll hacia abajo correcto, <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (70a3ee86-08fd-4df0-b1b2-01398f29013c)] -> xpath: //*[text()="Acepto"]]</span>]visible
+[20_00_50] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (70a3ee86-08fd-4df0-b1b2-01398f29013c)] -> xpath: //*[text()="Acepto"]]</span>]
+[20_00_50] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (70a3ee86-08fd-4df0-b1b2-01398f29013c)] -> xpath: /html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-button-renderer/a]</span>]
+[20_02_22] - [OK] : Scroll hacia abajo correcto, <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (e040fee9-996f-47f2-9197-e4cfb713fa94)] -> xpath: //*[text()="Acepto"]]</span>]visible
+[20_02_22] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (e040fee9-996f-47f2-9197-e4cfb713fa94)] -> xpath: //*[text()="Acepto"]]</span>]
+[20_02_22] - [ERROR]: Fallo al dar click: TypeError: rect is undefined
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SOBREMESA-ZOE', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 96.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220113185450, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 12172, moz:profile: C:\Users\Zoe Trigueros\AppD..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e040fee9-996f-47f2-9197-e4cfb713fa94
+[20_05_23] - [OK] : Scroll hacia abajo correcto, <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (3ce079f6-d860-4f9e-a91f-79dd9b4e89af)] -> xpath: //*[text()="Acepto"]]</span>]visible
+[20_05_23] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (3ce079f6-d860-4f9e-a91f-79dd9b4e89af)] -> xpath: //*[text()="Acepto"]]</span>]
+[20_05_24] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (3ce079f6-d860-4f9e-a91f-79dd9b4e89af)] -> xpath: /html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-button-renderer/a/tp-yt-paper-button]</span>]
+[20_06_21] - [OK] : Scroll hacia abajo correcto, <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (91a28860-8379-43bf-ab18-bae8473e19c2)] -> xpath: //*[text()="Acepto"]]</span>]visible
+[20_06_22] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (91a28860-8379-43bf-ab18-bae8473e19c2)] -> xpath: //*[text()="Acepto"]]</span>]
+[20_06_22] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (91a28860-8379-43bf-ab18-bae8473e19c2)] -> xpath: /html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-button-renderer/a/tp-yt-paper-button]</span>]
+[20_07_24] - [OK] : Scroll hacia abajo correcto, <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (76c89f22-c940-4f35-bc71-7f56092fb57f)] -> xpath: //*[text()="Acepto"]]</span>]visible
+[20_07_24] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (76c89f22-c940-4f35-bc71-7f56092fb57f)] -> xpath: //*[text()="Acepto"]]</span>]
+[20_07_24] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (76c89f22-c940-4f35-bc71-7f56092fb57f)] -> xpath: /html/body/ytd-app/div/div/ytd-masthead/div[3]/div[3]/div[2]/ytd-button-renderer/a]</span>]
+[20_07_59] - [OK] : Scroll hacia abajo correcto, <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b3f18a2c-147f-4b5d-b2af-524df2251dda)] -> xpath: //*[text()="Acepto"]]</span>]visible
+[20_07_59] - [OK]: Click correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b3f18a2c-147f-4b5d-b2af-524df2251dda)] -> xpath: //*[text()="Acepto"]]</span>]
+[20_07_59] - [ERROR] : Error al realizar la espera.

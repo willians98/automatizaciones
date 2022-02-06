@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="sampleTest" verbose="2" parallel="none">
+
+    <!-- <tests> -->
+    <test name="Demo">
+        <!-- <parameters> -->
+        <parameter name="browser" value="chrome" />
+        <parameter name="platform" value="windows" />
+        <!-- </parameters> -->
+        <classes>
+            <class name="framework.Tests.AmazonTest"/>
+        </classes>
+        <!--
+            <class name="framework.Tests.ChessTest"/>
+            <class name="framework.Tests.AmazonTest"/>
+            <class name="framework.Tests.FacebookTest"/>
+            <class name="framework.Tests.GoodReadsTest"/>
+            -->
+    </test>
+</suite>
