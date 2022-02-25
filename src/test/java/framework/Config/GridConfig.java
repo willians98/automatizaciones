@@ -9,6 +9,7 @@ import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 
+import jdk.nashorn.internal.scripts.JO;
 import org.openqa.selenium.Cookie;
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
@@ -26,6 +27,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
 import javax.swing.*;
+import java.awt.*;
 import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.IOException;
@@ -128,4 +130,5 @@ public class GridConfig {
             System.out.println("Error al desconectar");
         }
     }
+
 }

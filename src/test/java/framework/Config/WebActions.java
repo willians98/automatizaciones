@@ -241,5 +241,14 @@ public class WebActions extends  GridConfig{
             reporteHTML = texto.replace("[WARNING]", "<span style=\"color:orange; font-weight: bold;\"\\>[WARNING]</span>");
         }
     }
+    // Este método espera un nçumero de segundos determinado
+    public void wait(int secs) {
+        try {
+            Thread.sleep(secs * 1000);
+            Log.register("[OK][" + this.getClass().getSimpleName() + "]" + ": Espera de " + secs + " realizada.");
+        } catch (Exception ex) {
+            Log.register("[ERROR][" + this.getClass().getSimpleName() + "]" + ": Error al realizar la espera.");
+        }
+    }
 
 }

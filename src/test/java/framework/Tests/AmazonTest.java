@@ -5,7 +5,10 @@ import framework.Config.WebActions;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.testng.annotations.Test;
-import java.util.Scanner;
+
+import javax.swing.*;
+
+import static javax.swing.JOptionPane.showMessageDialog;
 
 //busqueda en wikipedia del enlace mas correcto preguntandole al usuario al inici
 
@@ -15,16 +18,29 @@ public class AmazonTest extends WebActions{
     public void loginTest_Amazon() throws Exception {
         test = extent.createTest("Login Amazon.es");
 
+        String respuesta = JOptionPane.showInputDialog("Escribe lo que quieres buscar");
         MainPage mainPage = new MainPage();
-        //pedimos datos por teclado
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Ingrese dato a buscar en la wikipedia");
-        String dato = scanner.nextLine();
-        //abrimos wikipedia
         driver.get("https://es.wikipedia.org/wiki/Wikipedia:Portada");
 
 
         try {
+            waitForVisibilitySendKeys(mainPage.Texto_Busqueda,respuesta);
+            waitForVisibilityClick(mainPage.Lupa_Wikipedia);
+            wait(5);
+
+            //por si quiere buscar otra cosa
+            String answer = JOptionPane.showInputDialog ("Si quiere buscar otra cosa escriba si,(si no escriba no)");
+            if ("si".equals(answer)) {
+                String respuesta2 = JOptionPane.showInputDialog("Escribe lo nuevo que quieres buscar");
+                waitForVisibilitySendKeys(mainPage.Texto_Busqueda,respuesta2);
+                waitForVisibilityClick(mainPage.Lupa_Wikipedia);
+            }else{
+                String outputStr2 = "No se buscara nada mas";
+                JOptionPane.showMessageDialog(null, outputStr2, "Gas", JOptionPane.INFORMATION_MESSAGE);
+                System.exit(0);
+        }
+
+
 
 
 
@@ -33,4 +49,6 @@ public class AmazonTest extends WebActions{
             throw ex;
         }
     }
+
 }
+

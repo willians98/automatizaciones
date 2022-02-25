@@ -2,6 +2,7 @@ package framework.WebElements;
 
 
 import com.gargoylesoftware.htmlunit.WebWindow;
+import org.apache.xalan.transformer.XalanProperties;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
@@ -146,6 +147,14 @@ public class MainPage extends WebActions {
     public WebElement Video_Youtube;
     @FindBy(xpath = "/html/body/ytd-app/div/ytd-page-manager/ytd-watch-flexy/div[5]/div[1]/div/div[1]/div/div/div/ytd-player/div/div/div[26]/div[2]/div[2]/button[10]")
     public WebElement Pantalla_Completa_Youtube;
+
+
+
+    //pruebas wikipedia zoe
+    @FindBy(xpath = "//*[@id=\"searchInput\"]")
+    public WebElement Texto_Busqueda;
+    @FindBy(xpath = "//*[@id=\"searchButton\"]")
+    public WebElement Lupa_Wikipedia;
 
 
 
