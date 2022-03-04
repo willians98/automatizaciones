@@ -1,0 +1,36 @@
+[11_21_18] - [OK] : "cervantes" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (c9e9ae0d-007a-4aa3-b532-f9196c7e37e4)] -> xpath: //*[@id="searchInput"]]</span>]
+[11_21_22] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (c9e9ae0d-007a-4aa3-b532-f9196c7e37e4)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[11_21_27] - [OK][AmazonTest]: Espera de 5 realizada.
+[11_21_35] - [OK] : "eiffel" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (c9e9ae0d-007a-4aa3-b532-f9196c7e37e4)] -> xpath: //*[@id="searchInput"]]</span>]
+[11_21_37] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (c9e9ae0d-007a-4aa3-b532-f9196c7e37e4)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[11_53_01] - [OK] : "cervantes" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b68f92d6-fac2-4e35-a5c3-9887ad80db52)] -> xpath: //*[@id="searchInput"]]</span>]
+[11_53_02] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b68f92d6-fac2-4e35-a5c3-9887ad80db52)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[11_53_08] - [OK][AmazonTest]: Espera de 5 realizada.
+[11_53_18] - [OK] : "torre eiffel" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b68f92d6-fac2-4e35-a5c3-9887ad80db52)] -> xpath: //*[@id="searchInput"]]</span>]
+[11_53_20] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b68f92d6-fac2-4e35-a5c3-9887ad80db52)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[11_53_33] - [OK] : "cervantes" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b68f92d6-fac2-4e35-a5c3-9887ad80db52)] -> xpath: //*[@id="searchInput"]]</span>]
+[11_53_34] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b68f92d6-fac2-4e35-a5c3-9887ad80db52)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[11_53_43] - [ERROR] : No se ha podido enviar "null" al elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b68f92d6-fac2-4e35-a5c3-9887ad80db52)] -> xpath: //*[@id="searchInput"]]</span>]
+[11_53_44] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b68f92d6-fac2-4e35-a5c3-9887ad80db52)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[11_53_46] - [ERROR] : No se ha podido enviar "null" al elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b68f92d6-fac2-4e35-a5c3-9887ad80db52)] -> xpath: //*[@id="searchInput"]]</span>]
+[11_53_47] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b68f92d6-fac2-4e35-a5c3-9887ad80db52)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[11_58_48] - [OK] : "cervantes" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (7558598a-bd4f-4101-9437-4285535616d5)] -> xpath: //*[@id="searchInput"]]</span>]
+[11_58_50] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (7558598a-bd4f-4101-9437-4285535616d5)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[11_58_55] - [OK][AmazonTest]: Espera de 5 realizada.
+[11_59_39] - [OK] : "cervantes" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (f8103a28-a12e-4ab4-a312-6f998ad2bf77)] -> xpath: //*[@id="searchInput"]]</span>]
+[11_59_41] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (f8103a28-a12e-4ab4-a312-6f998ad2bf77)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[11_59_46] - [OK][AmazonTest]: Espera de 5 realizada.
+[11_59_59] - [OK] : "torre eiffel" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (f8103a28-a12e-4ab4-a312-6f998ad2bf77)] -> xpath: //*[@id="searchInput"]]</span>]
+[12_00_01] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (f8103a28-a12e-4ab4-a312-6f998ad2bf77)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[12_00_07] - [OK] : "cervantes" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (f8103a28-a12e-4ab4-a312-6f998ad2bf77)] -> xpath: //*[@id="searchInput"]]</span>]
+[12_00_08] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (f8103a28-a12e-4ab4-a312-6f998ad2bf77)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[12_04_13] - [OK] : "cervantes" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b85db65d-587c-41fe-9975-61ed3b45013f)] -> xpath: //*[@id="searchInput"]]</span>]
+[12_04_15] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b85db65d-587c-41fe-9975-61ed3b45013f)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[12_04_27] - [OK] : "torre eiffel" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b85db65d-587c-41fe-9975-61ed3b45013f)] -> xpath: //*[@id="searchInput"]]</span>]
+[12_04_29] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b85db65d-587c-41fe-9975-61ed3b45013f)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[12_04_38] - [OK] : "cervantes" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b85db65d-587c-41fe-9975-61ed3b45013f)] -> xpath: //*[@id="searchInput"]]</span>]
+[12_04_39] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b85db65d-587c-41fe-9975-61ed3b45013f)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[12_04_44] - [OK] : "torre eiffel" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b85db65d-587c-41fe-9975-61ed3b45013f)] -> xpath: //*[@id="searchInput"]]</span>]
+[12_04_45] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b85db65d-587c-41fe-9975-61ed3b45013f)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado
+[12_04_48] - [OK] : "cervantes" enviado correcto en: <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b85db65d-587c-41fe-9975-61ed3b45013f)] -> xpath: //*[@id="searchInput"]]</span>]
+[12_04_49] - [OK] : Espera OK. Elemento <span style="font-style: italic; color: gray;">[[FirefoxDriver: firefox on WINDOWS (b85db65d-587c-41fe-9975-61ed3b45013f)] -> xpath: //*[@id="searchButton"]]</span>] visible y pulsado

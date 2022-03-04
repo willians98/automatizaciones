@@ -26,19 +26,20 @@ public class AmazonTest extends WebActions{
         try {
             waitForVisibilitySendKeys(mainPage.Texto_Busqueda,respuesta);
             waitForVisibilityClick(mainPage.Lupa_Wikipedia);
-            wait(5);
 
-            //por si quiere buscar otra cosa
+
+
+            //pregunta si quiere buscar en bucle si es que
+            //si le pregunta el que si es que no se para
+
             String answer = JOptionPane.showInputDialog ("Si quiere buscar otra cosa escriba si,(si no escriba no)");
-            if ("si".equals(answer)) {
+            while(answer.equals("si") ) {
+                //por si quiere buscar otra cosa
                 String respuesta2 = JOptionPane.showInputDialog("Escribe lo nuevo que quieres buscar");
                 waitForVisibilitySendKeys(mainPage.Texto_Busqueda,respuesta2);
                 waitForVisibilityClick(mainPage.Lupa_Wikipedia);
-            }else{
-                String outputStr2 = "No se buscara nada mas";
-                JOptionPane.showMessageDialog(null, outputStr2, "Gas", JOptionPane.INFORMATION_MESSAGE);
-                System.exit(0);
-        }
+                answer = JOptionPane.showInputDialog ("Si quiere buscar otra cosa escriba si,(si no escriba no)");
+            }
 
 
 

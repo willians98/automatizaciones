@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="framework.Tests.AmazonTest" duration-ms="25922" started-at="2022-02-25T18:32:32Z" finished-at="2022-02-25T18:32:58Z">
+  <suite name="framework.Tests.AmazonTest" duration-ms="64632" started-at="2022-03-04T11:03:45Z" finished-at="2022-03-04T11:04:50Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="25922" started-at="2022-02-25T18:32:32Z" finished-at="2022-02-25T18:32:58Z">
+    <test name="Command line test" duration-ms="64632" started-at="2022-03-04T11:03:45Z" finished-at="2022-03-04T11:04:50Z">
       <class name="framework.Tests.AmazonTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:framework.Tests.AmazonTest@6a2bcfcb]" name="beforeTest" is-config="true" duration-ms="266" started-at="2022-02-25T18:32:32Z" finished-at="2022-02-25T18:32:32Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:framework.Tests.AmazonTest@6a2bcfcb]" name="beforeTest" is-config="true" duration-ms="223" started-at="2022-03-04T11:03:45Z" finished-at="2022-03-04T11:03:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="setupDrive()[pri:0, instance:framework.Tests.AmazonTest@6a2bcfcb]" name="setupDrive" is-config="true" duration-ms="5761" started-at="2022-02-25T18:32:32Z" finished-at="2022-02-25T18:32:38Z">
+        <test-method status="PASS" signature="setupDrive()[pri:0, instance:framework.Tests.AmazonTest@6a2bcfcb]" name="setupDrive" is-config="true" duration-ms="4712" started-at="2022-03-04T11:03:46Z" finished-at="2022-03-04T11:03:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupDrive -->
-        <test-method status="PASS" signature="loginTest_Amazon()[pri:0, instance:framework.Tests.AmazonTest@6a2bcfcb]" name="loginTest_Amazon" duration-ms="19117" started-at="2022-02-25T18:32:38Z" description="Demo test" finished-at="2022-02-25T18:32:57Z">
+        <test-method status="PASS" signature="loginTest_Amazon()[pri:0, instance:framework.Tests.AmazonTest@6a2bcfcb]" name="loginTest_Amazon" duration-ms="59291" started-at="2022-03-04T11:03:50Z" description="Demo test" finished-at="2022-03-04T11:04:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest_Amazon -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:framework.Tests.AmazonTest@6a2bcfcb]" name="getResult" is-config="true" duration-ms="32" started-at="2022-02-25T18:32:57Z" finished-at="2022-02-25T18:32:57Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:framework.Tests.AmazonTest@6a2bcfcb]" name="getResult" is-config="true" duration-ms="24" started-at="2022-03-04T11:04:50Z" finished-at="2022-03-04T11:04:50Z">
           <params>
             <param index="0">
               <value>
@@ -30,11 +30,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:framework.Tests.AmazonTest@6a2bcfcb]" name="tearDown" is-config="true" duration-ms="721" started-at="2022-02-25T18:32:57Z" finished-at="2022-02-25T18:32:58Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:framework.Tests.AmazonTest@6a2bcfcb]" name="tearDown" is-config="true" duration-ms="357" started-at="2022-03-04T11:04:50Z" finished-at="2022-03-04T11:04:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:framework.Tests.AmazonTest@6a2bcfcb]" name="afterSuite" is-config="true" duration-ms="0" started-at="2022-02-25T18:32:58Z" finished-at="2022-02-25T18:32:58Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:framework.Tests.AmazonTest@6a2bcfcb]" name="afterSuite" is-config="true" duration-ms="1" started-at="2022-03-04T11:04:50Z" finished-at="2022-03-04T11:04:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
